@@ -1,4 +1,4 @@
-# MERN-Stack-Simple-Realtime-Chat
+# MERN Stack Simple Realtime Chat
 # Created with Typescript, React, Express, Node and Socket.IO
 
 # Setup 
